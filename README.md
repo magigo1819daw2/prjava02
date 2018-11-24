@@ -7,8 +7,8 @@
     git status ///
     git log
    
-10: git checkout master
-    geany Prjava00.java
+10: git checkout master ///
+    geany Prjava00.java ///
     git merge branca00
     
 14: git push origin branca01
