@@ -1,11 +1,11 @@
 # prjava02
 
-1:  1- git checkout -b branca00
-    2- git status
+1:  git checkout -b branca00 ///
+    git status
 
-5:  1- git checkout master
-    2- git status
-    3- git log
+5:  git checkout master ///
+    git status ///
+    git log
    
 10: git checkout master
     geany Prjava00.java
